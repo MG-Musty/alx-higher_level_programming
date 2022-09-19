@@ -1,2 +1,2 @@
-0x00. Python - Hello, World
-ALX-HIGHER_LEVEL_PROGRAMMING IN PYTHON.
+# ALX-HIGHER_LEVEL_PROGRAMMING
+`0x00. Python - Hello, World`
