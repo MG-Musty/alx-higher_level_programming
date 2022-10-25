@@ -30,4 +30,4 @@
 * Style guidelines: [PEP 8 (version 1.7)](https://www.python.org/dev/peps/pep-0008/) || [Google Style Python Docstrings](http://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)   
 ---
 # Authors
-[Mustapha Aliyu Galadima][![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/mgsmartmustee)
+Mustapha Aliyu Galadima [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/mgsmartmustee/)
