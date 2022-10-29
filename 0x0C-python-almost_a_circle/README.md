@@ -32,12 +32,6 @@ You will also learn about:
     * [test_base.py](tests/test_models/test_base.py) - Contains all tests pertaining to class `Base`
     * [test_rectangle.py](tests/test_models/test_rectangle.py) - Contains all tests pertaining to class `Rectangle`
     * [test_square.py](tests/test_models/test_square.py) - Contains all tests pertaining to class `Square`
-* [other files](test)
-  *[0-main.py]
-  *[1-main.py]
-  *[2-main.py]
-  *[" " " " "]
-  *[" " " " "]
 
 ## Author
 
