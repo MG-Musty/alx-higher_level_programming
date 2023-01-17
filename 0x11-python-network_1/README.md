@@ -83,30 +83,6 @@ Star Wars API, GitHub API, and Twitter API).
   * Usage: `./100-github_commits.py <repository name> <owner name>`
 	* Uses `requests`.
 
-* **12. Star Wars API #1**
-  * [101-starwars.py](./101-starwars.py): Python script that sends a search
-  request to the Star Wars API `people` endpoint with a given string.
-  * Usage: `./101-starwars.py <search string>`
-	* Displays the total number and `name` of each result.
-	* Manages pagination to display all results.
-	* Uses `requests`.
-
-* **13. Star Wars API #2**
-  * [102-starwars.py](./102-starwars.py): Python script that sends a search
-  request to the Star Wars API `people` endpoint with a given string.
-  * Usage: `./102-starwars.py <search string>`
-	* Displays the total number and `name` of each result as well as the list of
-  films associated with each character.
-	* Manages pagination to display all results.
-	* Uses `requests`.
-
-* **14. Twitter Auth**
-  * [103-search_twitter.py](./103-search_twitter.py): Python script that sends
-  a search request to the Twitter API `search` endpoint with a given string.
-  * Usage: `./103-search_twitter.py <consumer key> <consumer secret> <search string>`
-	* Displays the the top 5 results in the format
-  `[<Tweet ID>] <Tweet text> by <Tweet owner name>`.
-  * Uses `requests`.
 
 # :books: Author :pen:
 
